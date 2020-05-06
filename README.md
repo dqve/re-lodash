@@ -38,5 +38,4 @@ The main file containing all our methods is the `_.js` file in the root path. To
 ## Requirements
 * Node
 
-To install Node
 

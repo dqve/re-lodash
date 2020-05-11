@@ -34,7 +34,6 @@ The main file containing all our methods is the `_.js` file in the root path. To
 * Access a method by calling it on the 'Lodash'(`_`) Object as such `_.<module name>(<arguments>)`
 * Run it in the console or any other environment of your choice
 
-
 ## Requirements
 * Node
 
